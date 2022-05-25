@@ -1,0 +1,26 @@
+2020-05-04T21:27:03+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:28:46+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:29:13+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:29:16+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:29:18+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:37+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:39+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:39+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:40+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:43+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:46+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:49+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
+2020-05-04T21:31:51+00:00 CRITICAL Cannot redeclare fancy_lab_open_container_row() (previously declared in /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php:20), em /var/www/sabrestore/wp-content/themes/fancy-lab/inc/wp-modifications.php, na linha 19
+
